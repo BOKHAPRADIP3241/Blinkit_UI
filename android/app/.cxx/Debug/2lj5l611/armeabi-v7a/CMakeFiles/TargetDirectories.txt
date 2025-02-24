@@ -1,0 +1,2 @@
+F:/blinkit_ui/android/app/.cxx/Debug/2lj5l611/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/blinkit_ui/android/app/.cxx/Debug/2lj5l611/armeabi-v7a/CMakeFiles/rebuild_cache.dir
